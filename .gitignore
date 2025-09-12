@@ -1,10 +1,20 @@
-# --- Unity must-keep ---
-# Keep only what collaborators need
-/Assets/
-/ProjectSettings/
-/Packages/
+# --- ignore everything at repo root ---
+/*
 
-# --- Unity generated / local ---
+# --- but keep these ---
+!/.gitignore
+!/Assets/
+!/ProjectSettings/
+!/Packages/
+
+# --- also keep their contents ---
+!/Assets/**
+!/ProjectSettings/**
+!/Packages/**
+
+# --- extra ignores inside those folders are okay via nested .gitignore if needed ---
+
+# --- typical Unity junk (if 생기는 경우 대비로 남겨둠; 위의 unignore가 우선) ---
 /Library/
 /Temp/
 /Obj/
@@ -15,7 +25,7 @@
 /MemoryCaptures/
 /Recordings/
 
-# --- IDE / OS ---
+# IDE / OS
 /.vs/
 /.vscode/
 /.idea/
@@ -33,15 +43,10 @@
 .DS_Store
 Thumbs.db
 
-# --- C# solution clutter ---
+# C# solution clutter
 *.csproj
 *.unityproj
 *.sln
 *.vsconfig
 *.metaproj
 *.cache
-
-# --- Addressables & misc (optional; uncomment if needed) ---
-# /ServerData/
-# /Assets/AddressableAssetsData/*
-# !/Assets/AddressableAssetsData/*.asset

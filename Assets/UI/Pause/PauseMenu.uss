@@ -1,0 +1,42 @@
+/* 전체 루트를 꽉 채우고 가운데 정렬 */
+#Root {
+  position: absolute;
+  left: 0; right: 0; top: 0; bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* 딤 */
+.dim {
+  position: absolute;
+  left: 0; right: 0; top: 0; bottom: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+/* 패널 박스 */
+.panel {
+  /* transform 없이도 중앙에 오게 Root가 정렬해줌 */
+  width: 520px;
+  padding: 24px 32px;
+  background-color: rgba(26, 16, 48, 0.93); /* #1a1030 + alpha */
+  border-radius: 12px;
+
+  /* 경계선은 shorthand 대신 longhand로 */
+  border-left-width: 2px;  border-left-color: #6c4b2a;  border-left-style: solid;
+  border-right-width: 2px; border-right-color: #6c4b2a; border-right-style: solid;
+}
+
+/* 텍스트 정렬은 -unity- 접두사 필수 */
+.title {
+  -unity-text-align: middle-center;
+  font-size: 28px;
+  margin-bottom: 16px;
+}
+
+.menu-btn {
+  height: 44px;
+  margin-top: 8px;
+  font-size: 20px;
+}
+

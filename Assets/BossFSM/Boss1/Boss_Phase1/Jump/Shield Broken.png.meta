@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 2c548122eebd0544f9f8cf70fcebc6d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6980058497777058047
+    second: Shield Broken_0
+  - first:
+      213: -2452168724486325386
+    second: Shield Broken_1
+  - first:
+      213: 5629147341998969876
+    second: Shield Broken_2
+  - first:
+      213: 2026945941314531808
+    second: Shield Broken_3
+  - first:
+      213: -8659973843031305661
+    second: Shield Broken_4
+  - first:
+      213: -2719692998306860521
+    second: Shield Broken_5
+  - first:
+      213: 3788040094314338000
+    second: Shield Broken_6
+  - first:
+      213: 8038070509042436582
+    second: Shield Broken_7
+  - first:
+      213: 6086681414420335338
+    second: Shield Broken_8
+  - first:
+      213: 4806858776392899722
+    second: Shield Broken_9
+  - first:
+      213: -7850801370946604087
+    second: Shield Broken_10
+  - first:
+      213: -1725797301784280828
+    second: Shield Broken_11
+  - first:
+      213: -7169219015319449917
+    second: Shield Broken_12
+  - first:
+      213: -419879689156598991
+    second: Shield Broken_13
+  - first:
+      213: -993324505355602593
+    second: Shield Broken_14
+  - first:
+      213: -4484971890888437109
+    second: Shield Broken_15
+  - first:
+      213: -6282502912164351267
+    second: Shield Broken_16
+  - first:
+      213: 2997737855258575342
+    second: Shield Broken_17
+  - first:
+      213: -4958965213082370855
+    second: Shield Broken_18
+  - first:
+      213: 3454709856719869354
+    second: Shield Broken_19
+  - first:
+      213: 1803041514931161944
+    second: Shield Broken_20
+  - first:
+      213: 3499376744175683826
+    second: Shield Broken_21
+  - first:
+      213: 3599364984701718014
+    second: Shield Broken_22
+  - first:
+      213: -1822167262236951673
+    second: Shield Broken_23
+  - first:
+      213: -8947813801608069148
+    second: Shield Broken_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shield Broken_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1882
+        width: 193
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f3d8837c9d12f90800000000000000
+      internalID: -6980058497777058047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1882
+        width: 195
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b7ba7898528fdd0800000000000000
+      internalID: -2452168724486325386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_2
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 1882
+        width: 181
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414de2cdeafbe1e40800000000000000
+      internalID: 5629147341998969876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_3
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1882
+        width: 181
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1f8fa2898212c10800000000000000
+      internalID: 2026945941314531808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_4
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1882
+        width: 181
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342d1f91ca791d780800000000000000
+      internalID: -8659973843031305661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_5
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1882
+        width: 181
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7127dc9a0a5b14ad0800000000000000
+      internalID: -2719692998306860521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_6
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1882
+        width: 181
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d61b885562d19430800000000000000
+      internalID: 3788040094314338000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_7
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1901
+        width: 182
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9840b5a86fc8f60800000000000000
+      internalID: 8038070509042436582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1646
+        width: 182
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea0f7f6f7c387450800000000000000
+      internalID: 6086681414420335338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1646
+        width: 182
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c1e5cd69465b240800000000000000
+      internalID: 4806858776392899722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_10
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1647
+        width: 182
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3f39a9fb95c0390800000000000000
+      internalID: -7850801370946604087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_11
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1648
+        width: 181
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40102d86f7cbc08e0800000000000000
+      internalID: -1725797301784280828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_12
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1649
+        width: 181
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce88ea2a41d18c90800000000000000
+      internalID: -7169219015319449917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_13
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1649
+        width: 180
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1336b67b5a94c2af0800000000000000
+      internalID: -419879689156598991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_14
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1650
+        width: 181
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55b69f00a00732f0800000000000000
+      internalID: -993324505355602593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_15
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 1651
+        width: 182
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b829bffd3dd22c1c0800000000000000
+      internalID: -4484971890888437109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_16
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1395
+        width: 183
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2361433e010d8a0800000000000000
+      internalID: -6282502912164351267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_17
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1395
+        width: 184
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1cd6852ba1a9920800000000000000
+      internalID: 2997737855258575342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_18
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1395
+        width: 184
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dcb4b499673e2bb0800000000000000
+      internalID: -4958965213082370855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_19
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1278
+        width: 184
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa514d39f4891ff20800000000000000
+      internalID: 3454709856719869354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_20
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1278
+        width: 183
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b01c474b0b50910800000000000000
+      internalID: 1803041514931161944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_21
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1278
+        width: 182
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f8cadbbb98409030800000000000000
+      internalID: 3499376744175683826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_22
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1396
+        width: 181
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd0022226383f130800000000000000
+      internalID: 3599364984701718014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_23
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 1397
+        width: 180
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b350d778c56b6e0800000000000000
+      internalID: -1822167262236951673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shield Broken_24
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1142
+        width: 178
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef30d641caf2d380800000000000000
+      internalID: -8947813801608069148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Shield Broken_0: -6980058497777058047
+      Shield Broken_1: -2452168724486325386
+      Shield Broken_10: -7850801370946604087
+      Shield Broken_11: -1725797301784280828
+      Shield Broken_12: -7169219015319449917
+      Shield Broken_13: -419879689156598991
+      Shield Broken_14: -993324505355602593
+      Shield Broken_15: -4484971890888437109
+      Shield Broken_16: -6282502912164351267
+      Shield Broken_17: 2997737855258575342
+      Shield Broken_18: -4958965213082370855
+      Shield Broken_19: 3454709856719869354
+      Shield Broken_2: 5629147341998969876
+      Shield Broken_20: 1803041514931161944
+      Shield Broken_21: 3499376744175683826
+      Shield Broken_22: 3599364984701718014
+      Shield Broken_23: -1822167262236951673
+      Shield Broken_24: -8947813801608069148
+      Shield Broken_3: 2026945941314531808
+      Shield Broken_4: -8659973843031305661
+      Shield Broken_5: -2719692998306860521
+      Shield Broken_6: 3788040094314338000
+      Shield Broken_7: 8038070509042436582
+      Shield Broken_8: 6086681414420335338
+      Shield Broken_9: 4806858776392899722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
