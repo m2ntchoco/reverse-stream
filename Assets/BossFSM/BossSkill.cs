@@ -17,6 +17,6 @@ public class BossSkill
     public void Use()
     {
         skillAction?.Invoke();
-        lastUsedTime = Time.time;
+        lastUsedTime = Time.time; //plz commit
     }
 }
